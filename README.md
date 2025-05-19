@@ -5,7 +5,6 @@
 ![Demo App 2](./frontend/Pasted%20image.png?raw=true "Title")
 
 
-About This Course:
 
 -  Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
 -  Build an API
